@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c68d57a3-8f6b-4643-8d98-d25a8b66bd9c" name="Changes" comment="Loops have been added">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForE.java" afterDir="false" />
+    <list default="true" id="c68d57a3-8f6b-4643-8d98-d25a8b66bd9c" name="Changes" comment="ForEach loop">
+      <change afterPath="$PROJECT_DIR$/src/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663695039598</updated>
-      <workItem from="1663695043037" duration="3092000" />
+      <workItem from="1663695043037" duration="3723000" />
     </task>
     <task id="LOCAL-00001" summary="Loops have been added">
       <created>1663696168529</created>
@@ -59,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663698036356</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ForEach loop">
+      <created>1663698337348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663698337348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Loops have been added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loops have been added" />
+    <MESSAGE value="ForEach loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForEach loop" />
   </component>
 </project>
